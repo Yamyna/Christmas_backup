@@ -8,8 +8,12 @@ Maman
 Papi
 Macron
 <<<<<<< HEAD
+<<<<<<< HEAD
 Brigitte
 =======
 >>>>>>> 7ad83da (Ajout du fichier invite.txt)
 =======
 >>>>>>> 280a306 (Ajout des noms d'invité dans le fichier invite.txt)
+=======
+Brigitte
+>>>>>>> ec3839a (Ajout de Brigitte à la liste des invités)
