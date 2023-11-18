@@ -1,6 +1,9 @@
 Nombre d'invité : 15
+<<<<<<< HEAD
 Maman
 
 Papi
 Macron
 Brigitte
+=======
+>>>>>>> 7ad83da (Ajout du fichier invite.txt)
