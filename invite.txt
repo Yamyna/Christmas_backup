@@ -1,9 +1,15 @@
 Nombre d'invité : 15
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 280a306 (Ajout des noms d'invité dans le fichier invite.txt)
 Maman
 
 Papi
 Macron
+<<<<<<< HEAD
 Brigitte
 =======
 >>>>>>> 7ad83da (Ajout du fichier invite.txt)
+=======
+>>>>>>> 280a306 (Ajout des noms d'invité dans le fichier invite.txt)
