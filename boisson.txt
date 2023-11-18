@@ -2,3 +2,7 @@ Chocolat chaud
 Thé
 Café
 Vin
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6a295d3 (Ajout des boissons dans le fichier boisson.txt)
