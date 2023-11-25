@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Fichier(s) modifié(s) :"
+
+
+text_files=$(git diff --cached --name-only | grep '.txt$')
+echo $text_files
+
+if [ -n "$text_files" ]; then
+  echo "Contenue du/des fichier(s) texte(s) modifié(s):"
+  cat $text_files
+else
+  echo "Aucun fichier texte modifié."
+fi
+
+exit $?
